@@ -12,6 +12,6 @@
         app:showAsAction="never"/>
 
     <item android:id="@+id/switch_sepolia"
-        android:title="切换sepolia测试网络"
+        android:title="切换Sepolia测试网络"
         app:showAsAction="never"/>
 </menu>
