@@ -114,7 +114,7 @@
             android:id="@+id/amount"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:padding="5dp"
             android:hint="请输入发送的数量"
             android:background="@drawable/gray_round_bg"/>
