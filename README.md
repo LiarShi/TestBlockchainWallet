@@ -13,7 +13,9 @@ Web3j的Github地址：https://github.com/web3j/web3j
 1.创建一个Android项目，并在项目的build.gradle文件中添加以下依赖项：
 
 dependencies {
+
     implementation 'org.web3j:core:4.8.7-android'
+
     implementation 'com.android.support:appcompat-v7:28.0.0'
 }
 
